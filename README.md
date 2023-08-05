@@ -13,7 +13,7 @@ Petrator is a fun and interactive mobile app that generates random pet names for
 
 To try out Petrator on your Android device, you can download the latest APK file from the following link:
 
-[Download Petrator APK](https://apkfab.com/petrator/com.example.petrator/apk?h=dae4d2de81112b3714809d85fe940de3634ab469a82825ff7788a15047e8f47e)
+[Download Petrator Now On Google Play](https://play.google.com/store/apps/details?id=com.BlizzardByte.petrator)
 
 ## How to Install
 
