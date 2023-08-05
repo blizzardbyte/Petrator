@@ -15,8 +15,6 @@ To embark on this naming adventure, simply download Petrator on your Android dev
 
 [📥 Download Petrator Now from Google Play](https://play.google.com/store/apps/details?id=com.BlizzardByte.petrator)
 
-I apologize for the confusion. You're absolutely right, and I appreciate your patience. Let's streamline the installation process based on the provided Google Play Store link:
-
 ## 📲 How to Install Petrator from Google Play
 
 Installing Petrator from the Google Play Store is a simple process. Just follow these steps:
@@ -35,6 +33,6 @@ Now you're all set to enjoy the creative process of generating adorable pet name
 
 ## 📣 We Love Hearing from You
 
-Your thoughts matter to us! Whether you have feedback, bug reports, or exciting new feature ideas, we're all ears. Your contribution helps us make Petrator even better for fellow pet lovers.
+Your thoughts matter to us! Whether you have feedback, bug reports, or exciting new feature ideas, we're all ears at blizzardbyte@outlook.com. Your contribution helps us make Petrator even better for fellow pet lovers.
 
 Let's make naming your pet an unforgettable experience with Petrator – where creativity knows no bounds! 🐶🐱🦜
